@@ -20,6 +20,7 @@ selecting from gallery and take a photo <img width="869" alt="assignment41" src=
 languages <img width="932" alt="assignment46" src="https://github.com/byishimooli/assignment4_25113_byishimo_olivier/assets/150439910/70500fc6-0e89-4841-af5e-59bbc4d604b9">
 translates <img width="869" alt="assignment42" src="https://github.com/byishimooli/assignment4_25113_byishimo_olivier/assets/150439910/3b2420a0-2eb8-4333-acd1-119aac97c8b9">
             <img width="910" alt="assignment45" src="https://github.com/byishimooli/assignment4_25113_byishimo_olivier/assets/150439910/11f5b36a-6a7d-4962-b25d-9cc13cce3a59">
+            <img width="866" alt="assignment47" src="https://github.com/byishimooli/assignment4_25113_byishimo_olivier/assets/150439910/f5b8f4ca-a51b-4960-a488-9decd8541960">
 
 
 
