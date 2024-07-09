@@ -22,6 +22,7 @@ translates <img width="869" alt="assignment42" src="https://github.com/byishimoo
             <img width="910" alt="assignment45" src="https://github.com/byishimooli/assignment4_25113_byishimo_olivier/assets/150439910/11f5b36a-6a7d-4962-b25d-9cc13cce3a59">
             <img width="866" alt="assignment47" src="https://github.com/byishimooli/assignment4_25113_byishimo_olivier/assets/150439910/f5b8f4ca-a51b-4960-a488-9decd8541960">
 
+actual contacts i have in my virtual <img width="956" alt="assignment48" src="https://github.com/byishimooli/assignment4_25113_byishimo_olivier/assets/150439910/b408f4f6-a474-4510-8005-36633e7ee35f">
 
 
 
